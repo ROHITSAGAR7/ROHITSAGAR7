@@ -2,7 +2,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&size=35&center=true&vCenter=true&width=700&lines=🏵️+ᴊᴀɪ+sʜʀᴇᴇ+ʀᴀᴍ+🚩">
 </h1>
 
-
+<p align="center">
+  <img src="https://files.catbox.moe/tjx1zm.jpg" width="140px" height="140px" style="border-radius:50%;" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_rohit_sagar_official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@creatorxbot?si=TRYbspl779CGFGIc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagarrohit73517@gmail.com) 
