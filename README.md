@@ -11,7 +11,10 @@
   <img src="https://img.shields.io/badge/-𝗥𝗢𝗛𝗜𝗧 𝗦𝗔𝗚𝗔𝗥-800080?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0"/>
 </a>
 <a href="https://www.instagram.com/its_rohit_sagar_official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
-    <img src="https://img.shields.io/badge/-careless__02-FF8C00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+    <img src="https://img.shields.io/badge/-its_rohit_sagar_official-FF8C00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+  </a>
+  <a href="sagarrohit73517@gmail.com">
+    <img src="https://img.shields.io/badge/-GMAIL-9400D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
   </a>
   
 # 💻 Tech Stack:
