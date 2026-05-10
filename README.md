@@ -32,6 +32,14 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ROHITSAGAR7&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+<h2 align="center">🏖️ ꜱᴏᴍᴇ ᴘʀᴏɢʀᴀᴍɪɴɢ ᴛᴏᴏʟꜱ ɪ ʜᴀᴠᴇ ʙᴀꜱɪᴄ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏꜰ</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,linux,bash,mysql,docker" />
+</p>
+
+---
 [![](https://komarev.com/ghpvc/?username=ROHITSAGAR7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
