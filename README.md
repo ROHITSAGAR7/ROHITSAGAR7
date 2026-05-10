@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/tjx1zm.jpg" width="140px" height="140px" style="border-radius:50%;" />
+  <img src="https://files.catbox.moe/v2c0vb.jpg" width="140px" height="140px" style="border-radius:50%;" />
 </p>
 
 ## 🌐 Socials:
