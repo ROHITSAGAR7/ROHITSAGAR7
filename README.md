@@ -2,10 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&size=35&center=true&vCenter=true&width=700&lines=🏵️+ᴊᴀɪ+sʜʀᴇᴇ+ʀᴀᴍ+🚩">
 </h1>
 
-<p align="center">
-  <img src="<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&size=35&center=true&vCenter=true&width=700&lines=🏵️+ᴊᴀɪ+sʜʀᴇᴇ+ʀᴀᴍ+🚩">
-</h1>
 
 
 ## 🌐 Socials:
