@@ -13,3 +13,17 @@
 [![](https://komarev.com/ghpvc/?username=ROHITSAGAR7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<h2 align="center">🤝 ᴊᴏɪɴ ᴜs</h2>
+
+<p align="center">
+  <a href="https://t.me/Hindi_Friends_Chattings_Groups">
+    <img src="https://img.shields.io/badge/-𝗕𝗢𝗧__𝗨𝗣𝗗𝗔𝗧𝗘-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://t.me/BOT_X_SUPPORT">
+    <img src="https://img.shields.io/badge/-𝗕𝗢𝗧__𝗦𝗨𝗣𝗣𝗢𝗥𝗧-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
+  </a>
+</p>
+
+---
